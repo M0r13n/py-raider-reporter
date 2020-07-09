@@ -1,7 +1,7 @@
 # py-raider-reporter
 
 
-#### Raider Reporter for Python. Used in pair with [Vigil](https://github.com/valeriansaliou/raider), the Affiliates Tracker Page.
+#### Raider Reporter for Python. Used in pair with [Raider](https://github.com/valeriansaliou/raider), the Affiliates Tracker Page.
 
 
 ## Who uses it?
