@@ -1,5 +1,8 @@
 # py-raider-reporter
-
+[![PyPI](https://img.shields.io/pypi/v/py-raider-reporter)](https://pypi.org/project/py-raider-reporter/)
+[![license](https://img.shields.io/pypi/l/py-raider-reporter)](https://github.com/M0r13n/py-raider-reporter/blob/master/LICENSE)
+[![codecov](https://codecov.io/gh/M0r13n/py-raider-reporter/branch/master/graph/badge.svg)](https://codecov.io/gh/M0r13n/py-raider-reporter)
+[![downloads](https://img.shields.io/pypi/dm/py-raider-reporter)](https://pypi.org/project/py-raider-reporter/)
 
 #### Raider Reporter for Python. Used in pair with [Raider](https://github.com/valeriansaliou/raider), the Affiliates Tracker Page.
 
