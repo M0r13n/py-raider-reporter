@@ -21,7 +21,7 @@ jobs:
         pip install -r requirements.txt
         pip install pytest
         pip install pytest-cov
-        pytest --cov=./vigil_reporter --cov-report=xml
+        pytest --cov=./raider_reporter --cov-report=xml
     - uses: codecov/codecov-action@v1
       with:
         token: ${{ secrets.CODECOV_TOKEN }}
