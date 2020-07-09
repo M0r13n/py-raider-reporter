@@ -32,7 +32,18 @@ $ pip install py-raider-reporter
 `raider-reporter` can be instantiated as such:
 
 ```py
-TODO
+SAMPLE_CONFIG = {
+    "host": "affiliates.example.shop",
+    "track_token": "REPLACE_THIS_WITH_A_SECRET_TRACK_TOKEN",
+}
+
+reporter = RaiderReporter.from_config(SAMPLE_CONFIG)
+
+# track payment
+reporter.track_payment(SAMPLE_TRACKER_ID, 10.0)
+
+# track signup
+reporter.track_signup(SAMPLE_TRACKER_ID)
 ```
 
 
